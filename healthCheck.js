@@ -1,5 +1,4 @@
-const rp = require("request-promise");
-const sha = require("sha1");
+
 
 const email = require("./mail.js");
 let me = "www.healthcheck.com";
